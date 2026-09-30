@@ -50,6 +50,7 @@ Standalone agents you run rather than frameworks you build with.
 
 ## Memory
 
+- [Hyperconsciousness](https://github.com/louis030195/hyperconsciousness) - Developer-alpha Rust CLI and MCP knowledge store for encrypted append-only agent notes with scoped, expiring access grants.
 - [Mem0](https://github.com/mem0ai/mem0) - Memory layer for agents, adds persistent long-term memory across sessions.
 
 ## Observability & Evaluation
