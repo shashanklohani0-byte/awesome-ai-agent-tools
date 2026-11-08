@@ -45,6 +45,7 @@ Agent SDKs maintained by model providers, built to work best with their own mode
 
 Standalone agents you run rather than frameworks you build with.
 
+- [agent-qa](https://vostride.com) - Natural-language web, Android and iOS QA agent with persistent memidex memory, validated self-improvement and run evidence; [FSL-1.1-ALv2](https://vostride.com/license.md) restricts competing use, with model and infrastructure costs separate.
 - [AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) - One of the earliest and still most-starred autonomous agent projects.
 - [OpenClaw](https://github.com/openclaw/openclaw) - Self-hosted autonomous coding agent.
 
